@@ -14,7 +14,7 @@ export default {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta httpEquiv="Content-Language" content="en" />
+      <meta httpEquiv="Content-Language" content="zh-cn" />
       <meta name="description" content="Louie:伟大的先行者" />
       <meta name="og:description" content="Louie:伟大的先行者" />
       <meta name="twitter:card" content="summary_large_image" />
